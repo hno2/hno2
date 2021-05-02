@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there
+
+I am Simon and I am falling in ♥️ with AI. 
+
+Some fun facts about me: 
+
+- 🔬 I study at the Karlsruhe Instititute for Technology, Germany - Machine Learning and everything similar
+- 📕 I enjoy learning new stuff and helping other do the same
+- ✒️  I currently try to get better working in the open and sharing my knowledge by [blogging](http://www.simonklug.de)
+- 📥 You can reach me under [github@simonklug.de](mailto:github@simonklug.de)
+- 🎲 Random Stuff I like: Theatre, Sailing, Books, Singing, my little garden and Dungeons & Dragons
 
 <!--
 **hno2/hno2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
